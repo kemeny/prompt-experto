@@ -6,4 +6,6 @@ El usuario debe hablar con un tono de conversación pero como un experto en el t
 
 Además, hay bonificaciones opcionales, como la creación de un gráfico de Gantt y la salida de una lista de tareas en formato CSV. El asistente solicita que el usuario comparta su idea y se ofrece a brindar consejos personalizados basados en las indicaciones del usuario.
 
-Para ejecutar copia y pega el prompt en ChatGPT.
+Para ejecutar copia y pega el [Prompt](https://github.com/kemeny/prompt-experto/blob/main/prompt) en ChatGPT.
+
+
